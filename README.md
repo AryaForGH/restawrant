@@ -1,6 +1,5 @@
 <h1 align="center">Selamat datang di repository Restawrant! 👋🏻</h1>
 
-![restawrant-preview](https://user-images.githubusercontent.com/46257169/184797401-19a87345-0027-4b51-a137-9e80d6177541.png)
 
 
 <p></p>
@@ -24,7 +23,6 @@
   <a href="#fitur">Fitur</a> •
   <a href="#download">Download & Install</a> •
   <a href="#akun">Akun Default</a> •
-  <a href="#dukungan">Dukungan</a> •
   <a href="#lisensi">Lisensi</a>
 </p>
 
@@ -47,12 +45,6 @@ Website ini berperan sebagai homepage untuk menampilkan menu dan kategori makana
     -   Tambah, Update dan Delete Data Meja di restoran anda
     -   Tambah, Update dan Delete Reservasi meja
 - Dan masih banyak lagi
-<p></p>
-
-<h2 id="demo">🏠 Halaman Demo</h2>
-
-Halaman demo dapat anda akses di https://restawrant.herokuapp.com/ perlu diketahui server dapat tiba tiba mati atau website tidak dapat diakses, oleh karena itu baiknya anda coba di local
-
 <p></p>
 
 <h2 id="akun">🔑 Daftar Akun Tersedia</h2>
@@ -82,7 +74,7 @@ Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP atau web server
 
 ```bash
 # Clone repository ini atau download di
-$ git clone https://github.com/syauqi/restawrant.git
+$ git clone https://github.com/AryaForGH/restawrant.git
 
 # Kemudian jalankan command composer install, ini akan menginstall resources yang laravel butuhkan
 $ composer install
@@ -103,35 +95,8 @@ $ php artisan serve
 # Selamat aplikasi dapat anda nikmati di local!
 ```
 
-<p></p>
-
-<h2 id="dukungan">💌 Dukungan</h2>
-
-Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
-
-<p></p>
-
-<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<p></p>
-
-<h2 id="kontribusi">🤝 Kontribusi</h2>
-
-Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
-
-Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
-
-<p></p>
 
 <h2 id="lisensi">📝 Lisensi</h2>
 
--   Copyright © 2022 SYAUQIZAIDAN KHAIRAN KHALAF
+-   Copyright © 2025 Big Brew
 -   Restawrant adalah aplikasi web open-source yang berlisensi dibawah lisensi MIT
-
-<h2 id="lisensi">✨ Special Thanks</h2>
-
--   https://www.youtube.com/watch?v=8KaBeq9JzrQ&t=619s by <a href="https://www.youtube.com/c/Laraveller"> Laraveller </a>  for the tutorial!
-
----
-
-**<p align="center">Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF</p>**
